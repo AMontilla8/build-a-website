@@ -8,10 +8,9 @@ of it.
 
 ## Instructions
 
-1. Create a new project directory on your computer.
-1. In that directory, follow the setup from the
-   [parcel lesson](https://git.generalassemb.ly/dc-wdi-fundamentals/intro-to-bundlers-parcel)
-   to have something to start with.
+1. Fork and clone this repository
+1. Change into the new directory.
+1. Create a new directory.
 1. Pick a website to build from the list below.
 1. Fulfill the listed requirements.
 
@@ -19,96 +18,65 @@ Please turn in your submission by the deadline on your cohort calendar.
 
 ## Requirements
 
-Chose a website from the list of the following websites.
+Chose a website from the list of the following websites and implement it in HTML
+and CSS. Your goal is to build a website that looks as close to the image as
+possible!
 
 These sites have been chosen because they are a good balance between challenging
-and too easy. They are listed in order from generally easier to generally
-harder. If you have a strong preference for another site, run it by one of the
-instructors first.
+and easy. They also have plcaes where you'll be able to practice the things
+we've learned, like media queries, flexbox, and csss grid.
 
 The goal is to build an accurate clone of your chosen site. Do your best to get
-everything looking as similar as possible. Treat it like you were handed a
-mockup and given a deadline to deliver it. Use all the available
-resources you've been given - documentation, your peers, your instructors,
-placeholder images, etc.
+everything looking as similar as possible. Treat it like you were handed this
+mockup and given a deadline to deliver it. Use all the available resources
+you've been given - documentation, your peers, your instructors, placeholder
+images, etc.
 
-Some of the sites are super long or scroll forever - don't worry about building the whole thing. Pick a couple sections and do those.
+### Options
 
-When the site is done - congrats! Make a repository and upload it there. See
-submission requirements.
+#### Option #1: Blog theme homepage
 
-## Websites
+![blog theme homepage](https://i.pinimg.com/564x/fe/7b/d0/fe7bd02fffe32a5234295f94601d1b3a.jpg)
 
-- https://www.pinterest.com/
-- https://www.mcsweeneys.net/
-- https://giphy.com/
-- https://medium.com/
-- https://www.allrecipes.com/
-- https://thewirecutter.com/
+#### Option #2: Fiji travel homepage
 
-## Helpful Suggestions
+![Fiji travel homepage](https://i.pinimg.com/564x/37/1a/ca/371aca296f9322135d66227865cc6fe6.jpg)
+
+#### Option #3: Acadia homepage
+
+![Acadia homepage](https://i.pinimg.com/564x/eb/85/23/eb8523288ba7cd61e0c018ea17611357.jpg)
+
+#### Option #4: 3Ilogics homepage
+
+![3Ilogics homepage](https://i.pinimg.com/564x/bd/25/19/bd2519506b4bc7010007b88e2397fdde.jpg)
+
+#### Option #5: Artistic webpage homepage
+
+![artistic webpage](https://i.pinimg.com/564x/7d/63/26/7d63267091b12ec4eb43b1c1a5956322.jpg)
+
+### Helpful Suggestions
 
 Don't worry about getting exact images, unless you feel like manually
 downloading and linking some. That would be awesome to do eventually, but in the
-meantime you can use one of several placeholder sites.
+meantime you can use one of several placeholder sites:
 
-```
-http://www.fillmurray.com/300/250
-https://placehold.it/300x250
-https://placekitten.com/300/250
-```
-
-All of these will give you a 300x250px image. You can put them directly in the
-src attribute.
-
-Super bonus: https://github.com/imsky/holder (but don't waste too much time
-getting this working)
-
----
+* https://unsplash.com/
+* http://www.fillmurray.com/300/250
+* https://placehold.it/300x250
+* https://placekitten.com/300/250
 
 Use the built in `digital color meter` on your mac to get exact color codes from
-the websites. You can copy paste these into sass variables and reuse them!!!
-
----
+the websites.
 
 Work on the structure first. Don't get stuck in the weeds with details until
 you've got most of the high level stuff done. This means start with the
 container/row/column pattern and fill them in as you go along.
 
----
-
-Don't forget about bootstrap's built in components! They are super handy to get
-a baseline. You can always customize them.
-
----
-
-If you use a news site or something with content that updates frequently, take a
-screenshot to have something static to work off of. Take a screenshot at 3
-different screen sizes!
-
----
-
-Google fonts is a great resource. You can usually figure out what font a site is
-using by inspecting the css and looking for the `font-family` property.
-
---- 
-
-## Submission
-
-- Create a new repository on your github profile
-- Commit this site to that repository
-- Submit an issue
-  [on this very repo](https://git.generalassemb.ly/dc-wdi-fundamentals/build-a-website-parcel-bootstrap/issues)
-  with a link to your repository
-- Bonus: Include the link to the deployed version as well.
+Google fonts is a great resource for fonts. Try to find a fond that is close!
 
 ## Bonus
 
-Deploy your site to github pages! The process is the not the same as you did for
-your portfolio site, but still pretty easy.
-
-Super hint: You should only deploy what's in `/dist`, not the entire project.
-Guide here: https://gist.github.com/cobyism/4730490
+Deploy your site to github pages!
 
 ## Plagiarism
 
