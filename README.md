@@ -2,29 +2,30 @@
 
 # Build a Responsive Website!
 
-Using your newly learned skills of developing using bootstrap and sass, you'll
-pick a website from one of several provided and try to build an honest replica
-of it.
+For your first project, you're going to build a responsive website using HTML
+and CSS. You'll research and pick a design for a website and build an honest
+replica of it.
 
 ## Instructions
 
-1. Fork and clone this repository
-1. Change into the new directory.
-1. Create a new directory.
-1. Pick a website to build from the list below.
-1. Fulfill the listed requirements.
+1. Create a new repository on GitHub (not GitHub Enterprise).
+1. Clone down the repository and complete your work in there.
+1. Fulfill the listed requirements below.
 
 Please turn in your submission by the deadline on your cohort calendar.
 
 ## Requirements
 
-Chose a website from the list of the following websites and implement it in HTML
-and CSS. Your goal is to build a website that looks as close to the image as
-possible!
+Spend some time researching and looking for a design for a website. The best
+places to find designs are:
 
-These sites have been chosen because they are a good balance between challenging
-and easy. They also have plcaes where you'll be able to practice the things
-we've learned, like media queries, flexbox, and csss grid.
+* https://dribbble.com/
+* https://www.pinterest.com/
+* https://www.behance.net
+
+You want to pick something that will be challenging, but not require too much
+flourish. Pick something that seems challenging but manageable! Ask your
+instructors for feedback on your mock!
 
 The goal is to build an accurate clone of your chosen site. Do your best to get
 everything looking as similar as possible. Treat it like you were handed this
@@ -32,27 +33,18 @@ mockup and given a deadline to deliver it. Use all the available resources
 you've been given - documentation, your peers, your instructors, placeholder
 images, etc.
 
-### Options
+Additionally, your site should be responsive (meaning it looks good on mobile,
+tablet, and desktop). Use media queries to rearrange content so that it looks
+good on different devices. If your mock only has designs for desktop, then it's
+up to you to figure out how to make it look good on mobile. Great! It's really
+common in the industry for designers to come up with the desktop designs and
+then have the developers figure out the best way to present it on mobile and
+tablet.
 
-#### Option #1: Blog theme homepage
-
-![blog theme homepage](https://i.pinimg.com/564x/fe/7b/d0/fe7bd02fffe32a5234295f94601d1b3a.jpg)
-
-#### Option #2: Fiji travel homepage
-
-![Fiji travel homepage](https://i.pinimg.com/564x/37/1a/ca/371aca296f9322135d66227865cc6fe6.jpg)
-
-#### Option #3: Acadia homepage
-
-![Acadia homepage](https://i.pinimg.com/564x/eb/85/23/eb8523288ba7cd61e0c018ea17611357.jpg)
-
-#### Option #4: 3Ilogics homepage
-
-![3Ilogics homepage](https://i.pinimg.com/564x/bd/25/19/bd2519506b4bc7010007b88e2397fdde.jpg)
-
-#### Option #5: Artistic webpage homepage
-
-![artistic webpage](https://i.pinimg.com/564x/7d/63/26/7d63267091b12ec4eb43b1c1a5956322.jpg)
+Finally, you should deploy your website to [GitHub
+Pages](https://pages.github.com/). This is a free hosting service provided by
+GitHub for deploying static websites (no server or database). This is the part
+of the project that you get to figure out on your own! 😃
 
 ### Helpful Suggestions
 
@@ -72,11 +64,8 @@ Work on the structure first. Don't get stuck in the weeds with details until
 you've got most of the high level stuff done. This means start with the
 container/row/column pattern and fill them in as you go along.
 
-Google fonts is a great resource for fonts. Try to find a fond that is close!
-
-## Bonus
-
-Deploy your site to github pages!
+Google fonts is a great resource for fonts. Try to find a fond that is close to
+the one in the design!
 
 ## Plagiarism
 
