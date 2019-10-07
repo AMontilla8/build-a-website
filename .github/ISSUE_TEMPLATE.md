@@ -1,6 +1,6 @@
 Repo URL:
 
-BONUS Deployed URL:
+Deployed URL:
 
 Comfort score (1-5):
 
