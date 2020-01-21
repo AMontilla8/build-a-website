@@ -3,8 +3,8 @@
 # Build a Responsive Website!
 
 For your first project, you're going to build a responsive website using HTML
-and CSS. You'll research and pick a design for a website and build an honest
-replica of it.
+and CSS. You'll pick one of a few provided designs and build an honest replica
+of it.
 
 ## Instructions
 
@@ -16,16 +16,12 @@ Please turn in your submission by the deadline on your cohort calendar.
 
 ## Requirements
 
-Spend some time researching and looking for a design for a website. The best
-places to find designs are:
+Pick a design implemented in Adobe XD from the provided collection of designs.
 
-* https://dribbble.com/
-* https://www.pinterest.com/
-* https://www.behance.net
+[You can find the designs here](https://drive.google.com/open?id=1TAwK2keGfuGk6D7UxbDyDWOe-2HVv35a).
 
-You want to pick something that will be challenging, but not require too much
-flourish. Pick something that seems challenging but manageable! Ask your
-instructors for feedback on your mock!
+**Pick from the `Easy` or `Medium` folders.** Pick something that seems
+challenging but manageable!
 
 The goal is to build an accurate clone of your chosen site. Do your best to get
 everything looking as similar as possible. Treat it like you were handed this
@@ -34,38 +30,36 @@ you've been given - documentation, your peers, your instructors, placeholder
 images, etc.
 
 Additionally, your site should be responsive (meaning it looks good on mobile,
-tablet, and desktop). Use media queries to rearrange content so that it looks
-good on different devices. If your mock only has designs for desktop, then it's
-up to you to figure out how to make it look good on mobile. Great! It's really
-common in the industry for designers to come up with the desktop designs and
-then have the developers figure out the best way to present it on mobile and
-tablet.
+tablet, and desktop).
+
+Use media queries to rearrange content so that it looks good on different
+devices. If your mock only has designs for desktop, then it's up to you to
+figure out how to make it look good on mobile. Great! It's really common in the
+industry for designers to come up with the desktop designs and then have the
+developers figure out the best way to present it on mobile and tablet.
 
 Finally, you should deploy your website to [GitHub
 Pages](https://pages.github.com/). This is a free hosting service provided by
 GitHub for deploying static websites (no server or database). This is the part
 of the project that you get to figure out on your own! 😃
 
+In sum, the requirements for this project are:
+
+* Pick a mock and implement it with HTML and CSS
+* Make your mock responsive using media queries
+* Deploy your website to GitHub Pages
+
 ### Helpful Suggestions
 
-Don't worry about getting exact images, unless you feel like manually
-downloading and linking some. That would be awesome to do eventually, but in the
-meantime you can use one of several placeholder sites:
-
-* https://unsplash.com/
-* http://www.fillmurray.com/300/250
-* https://placehold.it/300x250
-* https://placekitten.com/300/250
-
-Use the built in `digital color meter` on your mac to get exact color codes from
-the websites.
+Don't spend too much time getting the images exactly right. If you need to, pick
+a placeholder stock image from [Unsplash](https://unsplash.com).
 
 Work on the structure first. Don't get stuck in the weeds with details until
 you've got most of the high level stuff done. This means start with the
 container/row/column pattern and fill them in as you go along.
 
-Google fonts is a great resource for fonts. Try to find a fond that is close to
-the one in the design!
+Try to find the exact font on Google, if you can. Don't pay for a font! Instead,
+use Google fonts and try to find a font that is close to the one in the design!
 
 ## Plagiarism
 
