@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css');
+@font-face {
+	font-family: DPSDbeyond;
+	src: url("/dpsdbeyond.regular.otf");
+}
 
 * {
 	margin: 0;
@@ -21,6 +26,7 @@ ul {
 
 h2 {
 	text-transform: uppercase;
+	font-family: DPSDbeyond;
 }
 
 p {
@@ -117,6 +123,7 @@ p {
 	border-radius: 5px; 
 	background-color: inherit;
 	transition: all linear 0.5s;
+	border: none;
 }
 
 .header .searchbox input:focus {
@@ -146,11 +153,11 @@ p {
 
 .topnav .Archent {
 	width: 330px;
-
 	font-size: 3em;
 	position: absolute;
 	text-transform: uppercase;
 	float: left;
+	font-family: DPSDbeyond;
 }
 
 .topnav .crown {
@@ -208,6 +215,7 @@ p {
 	font-style: italic;
 	font-size: 1em;
 	color: rgb(127, 133, 132);
+	
 }
 
 .topnav .topic .imgdiv {
