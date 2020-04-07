@@ -1,6 +1,6 @@
 https://amontilla-build-a-montilla.netlify.com/
-Project 1
 
+Project 1
 ## Build a Website
 
 Building my first website from a mockup that was provided to me from General assembly. 
